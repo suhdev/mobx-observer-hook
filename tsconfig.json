@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "rootDir": "./",
+    "module": "commonjs",
+    "target": "es2019",
+    "jsx": "react",
+    "outDir": "./"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
