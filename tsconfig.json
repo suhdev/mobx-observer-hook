@@ -4,9 +4,11 @@
     "module": "commonjs",
     "target": "es2019",
     "jsx": "react",
+    "declaration": true,
     "outDir": "./"
   },
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "./index.d.ts"
   ]
 }
